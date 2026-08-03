@@ -4,13 +4,12 @@
 
 # We run your AI.
 
-**Insight-IT GmbH** is an IT systems house in Berlin, Germany. For over 25 years we have
-run infrastructure for companies of every size, from mid-sized businesses to enterprise
+**Insight-IT GmbH** is an IT service provider in Berlin, Germany. Since over 25 years we are
+running IT infrastructure for companies of any size, from small, mid-sized to enterprise bussinesses 
 and public-sector clients.
 
 Today we also run **sovereign AI**: large language models, speech and document AI on our
-**own GPU cluster**, hosted in Germany — not in someone else's cloud black box. Data
-stays in the country, access is logged, and the whole stack is auditable.
+**own GPU cluster**, hosted in Germany. EU AI Act conform, auditable data handling.
 
 ### Open source
 
