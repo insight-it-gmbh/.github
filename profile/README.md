@@ -4,12 +4,12 @@
 
 # We run your AI.
 
-**Insight-IT GmbH** is an IT service provider in Berlin, Germany. Since over 25 years we are
-running IT infrastructure for companies of any size, from small, mid-sized to enterprise bussinesses 
-and public-sector clients.
+**Insight-IT GmbH** is an IT service provider in Berlin, Germany. Since 2002 we have been
+running IT infrastructure for companies of any size, from small and mid-sized businesses to
+enterprises and public-sector clients.
 
 Today we also run **sovereign AI**: large language models, speech and document AI on our
-**own GPU cluster**, hosted in Germany. EU AI Act conform, auditable data handling.
+**own GPU cluster**, hosted in Germany. EU AI Act compliant, with auditable data handling.
 
 ### Open source
 
@@ -18,6 +18,7 @@ Tools we built for our own infrastructure and released for everyone:
 | Project | What it does |
 |---|---|
 | [**LibreHardwareMonitor-Linux**](https://github.com/insight-it-gmbh/LibreHardwareMonitor-Linux) | Read Linux CPU/GPU/BMC/disk sensors with any LibreHardwareMonitor client. Zero dependencies. |
+| [**netbird-esp32**](https://github.com/insight-it-gmbh/netbird-esp32) | NetBird client for ESP32 microcontrollers: joins an ESP32 to a NetBird network as a regular peer. ESP-IDF component. |
 
 ### Get in touch
 
